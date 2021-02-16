@@ -1,1 +1,2 @@
 # ProjectsTrain
+This section of repository is fully dedicated for tutorials that I have used in order to utalise my knowledge, which in later episodes I will be using as tools which I can use to create my own ideas. It will consist of different names of reposititories and names. The main goal is to keep calm and carry on programming, like I alwyas wanted to, but due to many private reasons I wasn't able to, mainly becasue of financial difficulties as well as problems with keeping time.
